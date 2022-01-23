@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - Obstacle
+  - BombPickup
+  - Enemy
+  - ExplosionFX
+  - Bullet
+  - HealthBar
+  - BreakingBox
+  - BreakablePiece
+  - Death Trigger
+  - Checkpoint
+  - FadeScreen
+  - LevelLoader
+  - MetalSurface
+  - GrassSurface
+  - GlassSurface
+  - WeightPlatform
+  - Door
+  - DoorTarget
+  - EndLevel
+  - VirtualCamera
+  - CameraRig
+  - CollectableItem
+  - MessageTrigger
+  - textpopup
+  - GameCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Props
+  - Post-Processing
+  - BreakingBox
+  - Triggers
+  - Systems
+  - UselessProps
+  - AI
+  - AudioTriggers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
